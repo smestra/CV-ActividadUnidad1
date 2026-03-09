@@ -1,0 +1,53 @@
+h1 {
+  margin-left: 560px;
+}
+
+img {
+  width: 200px;
+  height: 260px;
+  margin-left: 560px;
+  margin-right: 500px;
+}
+
+.datos-personales {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 100px;
+}
+
+.datos-personales strong {
+  flex: 0 0 500px;
+  font-weight: bold;
+  display: inline-block;
+}
+.datos-personales p {
+  display: flex;
+  margin-bottom: 8px; 
+  text-align: left;
+}
+.div-color-franja {
+  background-color: rgb(50, 79, 141);
+  color: white;
+}
+
+div h3 {
+  /* background-color: rgb(50, 79, 141); */
+  align-items: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+}
+
+.franja-perfil{
+  background-color:rgb(50, 79, 141);
+  margin: 0 auto;
+  color: white
+}
+
+.franja-formacion{
+   background-color: rgb(50, 79, 141);
+  margin: 0 auto;
+  color: white;
+
+}
+
