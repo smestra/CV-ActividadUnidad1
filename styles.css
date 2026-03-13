@@ -1,8 +1,9 @@
-h1 {
-  margin-left: 560px;
+.card-img-top {
+  max-width: 15rem;
+  align-self: center;
 }
 
-img {
+.img-cv {
   width: 200px;
   height: 260px;
   margin-left: 560px;
@@ -50,4 +51,5 @@ div h3 {
   color: white;
 
 }
+
 
